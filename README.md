@@ -1,1 +1,3 @@
-# responsive-drawing-studio-330726-332695
+# Project Repository
+
+This is the initial README file for the project.
